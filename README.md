@@ -1,28 +1,13 @@
-# UntrackMe [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Crowdin](https://badges.crowdin.net/nitterizeme/localized.svg)](https://crowdin.com/project/nitterizeme)  [![pipeline status](https://framagit.org/tom79/nitterizeme/badges/develop/pipeline.svg)](https://framagit.org/tom79/nitterizeme/commits/develop)
+# DeTrack [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Crowdin](https://badges.crowdin.net/nitterizeme/localized.svg)](https://framagit.org/tom79/nitterizeme/badges/develop/pipeline.svg)]
 
-UntrackMe transforms Twitter, YouTube, Instagram, Reddit and Medium and Wikipedia links to links of open source, [privacy friendly front-ends](#privacy-friendly-front-ends). Converts Google Maps links to OpenStreetMap links. Removes tracking parameters from any url. Then delegates the action to other apps that are capable of handling them.
+DeTrack redirect Twitter, YouTube, Instagram, Reddit, Medium and Wikipedia links to links of open source, [privacy friendly front-ends](#privacy-friendly-front-ends). Converts Google Maps links to OpenStreetMap links. Removes tracking parameters from any url. Then delegates the action to other apps that are capable of handling them.
 
-##### Versions of UntrackMe:
+##### Versions of Detrack:
 - **Lite**<br>
 Can handle Twitter, YouTube, Instagram, Reddit Medium, Wikipedia, Google Maps and shortened urls.
 
 - **Full**<br>
 All features of _Lite_ version + Can remove tracking parameters from any url.
-
-
-## Donate
-
-[<img alt="Donate using Liberapay" src="http://img.shields.io/liberapay/patrons/tom79.svg?logo=liberapay"/>](https://liberapay.com/tom79/donate)
-
-
-## Download
-
-- **Full Version**:<br>
-[<img alt='Get it on F-Droid' src='./images/get-it-on-fdroid.png' height="80"/>](https://f-droid.org/app/app.fedilab.nitterizeme)
-
-- **Lite Version**:<br>
-[<img alt='Get it on F-Droid' src='./images/get-it-on-fdroid.png' height="80"/>](https://f-droid.org/app/app.fedilab.nitterizemelite)
-
 
 ## Privacy Friendly Front-Ends
 
@@ -78,10 +63,3 @@ _Source Code: [codeberg.org/orenom/wikiless](https://codeberg.org/orenom/wikiles
 A web extension from [@SimonBrazell](https://github.com/SimonBrazell) that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives - Nitter, Invidious, FreeTube, Bibliogram & OpenStreetMap.
 
 Source code of [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect)
-
-
-#### Deprecated / Archived
-
-For a full coverage with URLs, you can use FireFox with the [Invidition](https://addons.mozilla.org/fr/firefox/addon/invidition/) plugin from [@booteille](https://framapiaf.org/@booteille).
-
-Source code of [Invidition on Codeberg](https://codeberg.org/Booteille/invidition)
