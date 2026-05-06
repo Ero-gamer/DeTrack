@@ -1,0 +1,1 @@
+Przekieruj linki do Youtube, Twitter i Instagram do ich darmowej i otwartej alternatywnej wersji front-end skupiającej się na prywatności.

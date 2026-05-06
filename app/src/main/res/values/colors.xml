@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#1da1f2</color>
+    <color name="topBar">#212121</color>
+    <color name="containerCard">#272727</color>
+    <color name="textColor">#EFEFEF</color>
+    <color name="red">#D50000</color>
+</resources>

@@ -1,0 +1,31 @@
+UntrackMeをデフォルトでTwitter、YouTube、Instagramのリンクを開くように設定すると、Nitter、Invidious、Bibliogramのリンクに変換し、別のアプリのアクションに任せます。
+
+また、GoogleマップのリンクをOpenStreetMapのリンクやGeoURIに変換することもできます。
+
+アプリは短縮URLを検出し、サイトにアクセスする前にフルURLを表示します。
+
+**Liteバージョン:
+
+- Twitter、YouTube、Googleマップのリンクを共有する場合は、UntrackMeを選択して別のアプリへ共有する前に変換します。
+
+**フルバージョン:
+
+- Lite バージョンのすべての機能に加えて、すべてのリンクのトラッキングパラメータを削除する処理もできます。 訪問前にURLを表示する独自のアプリピッカーを使用します。
+
+
+Nitterとは:
+
+プライバシーに重点を置いた無料でオープンソースのTwitter代替フロントエンドです。
+Github プロジェクト: https://github.com/zedeus/nitter
+
+
+Invidiousとは:
+
+YouTubeの無料でオープンソースの代替フロントエンドです。
+Github プロジェクト: https://github.com/omarroth/invidious
+
+
+Bibliogramとは:
+
+Instagramの無料でオープンソースの代替フロントエンドです
+Github プロジェクト: https://github.com/cloudrac3r/bibliogram
