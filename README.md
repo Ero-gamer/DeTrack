@@ -1,4 +1,4 @@
-# DeTrack [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Crowdin](https://badges.crowdin.net/nitterizeme/localized.svg)](https://framagit.org/tom79/nitterizeme/badges/develop/pipeline.svg)]
+# DeTrack [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Crowdin](https://badges.crowdin.net/nitterizeme/localized.svg)](https://framagit.org/tom79/nitterizeme/badges/develop/pipeline.svg)
 
 DeTrack redirect Twitter, YouTube, Instagram, Reddit, Medium and Wikipedia links to links of open source, [privacy friendly front-ends](#privacy-friendly-front-ends). Converts Google Maps links to OpenStreetMap links. Removes tracking parameters from any url. Then delegates the action to other apps that are capable of handling them.
 
